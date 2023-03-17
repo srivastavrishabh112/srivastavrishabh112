@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @srivastavrishabh112
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning btech in RCET,bhilai.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Android Development
 - 📫 How to reach me ...
 
 <!---
