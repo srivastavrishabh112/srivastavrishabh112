@@ -47,7 +47,7 @@
  ## Connect with me:
 <p align="center">
 
-<a href = "hhttps://www.linkedin.com/in/rishabh-kumar-949a81205/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"></a>
+<a href = "https://www.linkedin.com/in/rishabh-kumar-949a81205/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"></a>
 <a href = "https://twitter.com/TyRAnTxHuntEr?t=srOHoAEKK9KUJuDK02edhQ&s=09"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"></a>
 
 
